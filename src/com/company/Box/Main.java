@@ -6,8 +6,7 @@ public class Main {
 
         Box box1 = new Box("Box1",4,5,10);
         Box box2 = new Box("Box2",10,1,2);
-        Box box4 = new Box("Box2",10,1,2);
-        Box box3 = new Box("Box2",10,1,2);
+
 
         box1.countVolume();
         box2.countVolume();
